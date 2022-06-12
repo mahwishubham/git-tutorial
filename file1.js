@@ -1,3 +1,3 @@
-hello
+var ello="SMA"
 world
 test
